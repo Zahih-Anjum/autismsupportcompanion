@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB6xj6XXtk2wMkxNqTvobH2lsDhITYQqcE',
+    apiKey: '',
     appId: '1:909233859763:android:9456601f88819ebb4754c6',
     messagingSenderId: '909233859763',
     projectId: 'autism-companion',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCVzodHSZSD5abUhU21ECYsJDXk2VIIlLY',
+    apiKey: '',
     appId: '1:909233859763:ios:ea46f05f36715a984754c6',
     messagingSenderId: '909233859763',
     projectId: 'autism-companion',
