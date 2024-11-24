@@ -1,0 +1,10 @@
+const loginRoute = '/login/';
+const registerRoute = '/register/';
+const verifyEmailRoute = '/verify-email/';
+const dashboardRoute = '/dashboard/';
+const editProfileRoute = '/edit-profile/';
+const formRoute = '/form/';
+const profileViewRoute = '/profile/';
+const preferencesViewRoute = '/list/';
+const diagnosisResultRoute ='/diagnosis/';
+const accRoute = '/acc/';
